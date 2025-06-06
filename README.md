@@ -103,3 +103,6 @@ export default tseslint.config({
   },
 })
 ```
+
+## deploy
+https://feedback-sepia.vercel.app/
